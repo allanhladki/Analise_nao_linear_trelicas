@@ -1,0 +1,5 @@
+apendice
+html
+*.html
+*.doc
+*.docx
